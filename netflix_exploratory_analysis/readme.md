@@ -99,10 +99,10 @@ In this project, I embarked on an exploratory analysis of Netflix TV series and 
 
 Through my analysis, I discovered several key findings:
 
-## Content Distribution
+- Content Distribution
 I observed a diverse range of content types on Netflix, including movies and TV shows. The distribution of content types provides valuable insights into the platform's content strategy and audience preferences.
 
-## Genre Preferences
+- Genre Preferences
 Analyzing the count of movie genres revealed popular genres among Netflix viewers. Understanding genre preferences can aid content creators and platform managers in curating a compelling content library.
 
 ## Temporal Trends
