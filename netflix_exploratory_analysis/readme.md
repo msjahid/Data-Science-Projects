@@ -17,7 +17,7 @@ This project delves into an exploratory analysis of Netflix TV series and movies
     - [Count of Movie Genres](#count-of-movie-genres)
     - [Genre vs. Movie Duration Scatter Plot](#genre-vs-movie-duration-scatter-plot)
     - [Distribution of Movie Durations](#distribution-of-movie-durations)
-4. [Explanation of some common ratings:](#explanation_of_some_common_ratings)
+4. [Explanation of some common Ratings](#explanation_of_some_common_ratings)
 5. [Conclusion](#conclusion)
 
 ## Introduction 🚀
