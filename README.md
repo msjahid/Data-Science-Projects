@@ -1,6 +1,6 @@
 # Data Science Projects 📊
 
-Welcome to my Data Science Projects Showcase! 
+Welcome to my Data Science Projects Showcase!  
 Explore a diverse range of projects, from exploratory analysis to predictive modeling.
 
 ## 1. Exploratory Analysis of Netflix movie
