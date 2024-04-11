@@ -6,6 +6,6 @@ Welcome to my data science projects showcase! Dive into an array of projects exp
 
 🎬 Embark on a journey through the captivating world of Netflix movies with this project on Exploratory Analysis. By dissecting a rich dataset encompassing features like show type, country, release year, and more, uncover hidden trends and insights, offering a comprehensive exploration of Netflix's cinematic landscape.
 
-[View Repository](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/tree/main/Machine%20Learning/Black%20Friday%20Sales%20Prediction%20model)
+[View Repository](https://github.com/msjahid/Data_Science_Projects/tree/main/netflix_exploratory_analysis)
 
 Feel free to explore these projects to gain insights into different data science applications.
