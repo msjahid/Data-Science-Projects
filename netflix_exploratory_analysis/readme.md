@@ -58,11 +58,11 @@ The 'type' column in the Netflix DataFrame contains two distinct values:
 
 ### Distribution of Content Types: Movies vs. TV Shows
 
-![Distribution of Content Types: Movies vs. TV Shows](movie_charts/Distribution%20of%20Content%20Types_%20Movies%20vs_%20TV%20Shows.png)
+![Distribution of Content Types: Movies vs. TV Shows](movie_charts/Distribution%20of%20Content%20Types%3A%20Movies%20vs.%20TV%20Shows.png)
 
 ### Release Year vs. Duration Scatter Plot
 
-![Release Year vs. Duration Scatter Plot](movie_charts/Release%20Year%20vs_%20Duration%20Scatter%20Plot.png)
+![Release Year vs. Duration Scatter Plot](movie_charts/Release%20Year%20vs.%20Duration%20Scatter%20Plot.png)
 
 ### Count of Movie Genres
 
@@ -70,7 +70,7 @@ The 'type' column in the Netflix DataFrame contains two distinct values:
 
 ### Genre vs. Movie Duration Scatter Plot
 
-![Genre vs. Movie Duration Scatter Plot](movie_charts/Genre%20vs_%20Movie%20Duration%20Scatter%20Plot.png)
+![Genre vs. Movie Duration Scatter Plot](movie_charts/Genre%20vs.%20Movie%20Duration%20Scatter%20Plot.png)
 
 ### Distribution of Movie Durations
 
@@ -99,16 +99,16 @@ In this project, I embarked on an exploratory analysis of Netflix TV series and 
 
 Through my analysis, I discovered several key findings:
 
-- Content Distribution
+- Content Distribution:
 I observed a diverse range of content types on Netflix, including movies and TV shows. The distribution of content types provides valuable insights into the platform's content strategy and audience preferences.
 
-- Genre Preferences
+- Genre Preferences:
 Analyzing the count of movie genres revealed popular genres among Netflix viewers. Understanding genre preferences can aid content creators and platform managers in curating a compelling content library.
 
-## Temporal Trends
+- Temporal Trends:
 By visualizing the release year vs. duration scatter plot, I identified temporal trends in content production. These trends can inform decision-making regarding content acquisition and production strategies.
 
-## Viewer Engagement
+- Viewer Engagement:
 Exploring viewer engagement through scatter plots helped me understand the relationship between genre, duration, and viewer interest. These insights are crucial for optimizing content recommendations and enhancing viewer engagement.
 
 Overall, my exploratory analysis provides valuable insights into the content landscape of Netflix and offers a foundation for further in-depth analysis and modeling. By leveraging data-driven insights, content creators, platform managers, and stakeholders can make informed decisions to enhance the Netflix viewing experience and drive business success.
