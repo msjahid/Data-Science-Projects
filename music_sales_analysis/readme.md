@@ -63,7 +63,7 @@ Exploratory Data Analysis involves visualizing and interpreting the dataset to e
 
 ### Relationship between Sales, Downloads, and Radio Plays over Time
 
-![Relationship between Sales, Downloads, and Radio Plays over Time](Relationship%20between%20Sales%2C%20Downloads%2C%20and%20Radio%20Plays%20over%20Time.png)
+![Relationship between Sales, Downloads, and Radio Plays over Time](music_charts/Relationship%20between%20Sales%2C%20Downloads%2C%20and%20Radio%20Plays%20over%20Time.png)
 
 ## Conclusion 🎉
 

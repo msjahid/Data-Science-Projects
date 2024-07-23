@@ -11,4 +11,12 @@ Explore a diverse range of projects, from exploratory analysis to predictive mod
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/exploratory-analysis-of-netflix-movie)
 
+## 2. Exploratory Analysis of Music Sales and Streaming
+
+🎵 Dive into the dynamic world of music sales with this project on Exploratory Analysis. By analyzing a diverse dataset that includes attributes such as artist, title, year, sales, streams, downloads, and radio plays, uncover hidden trends and insights. This project offers a comprehensive exploration of the music industry's landscape, revealing patterns that drive the success of popular tracks and artists.
+
+[View Repository](https://github.com/msjahid/Data-Science-Projects/tree/main/music_sales_analysis)
+
+[Click for Kaggle](https://www.kaggle.com/code/msjahid/exploratory-analysis-of-music-sales-and-streaming)
+
 Feel free to explore these projects to gain insights into different data science applications.
