@@ -12,11 +12,10 @@ This project delves into the realm of music data analysis, focusing on exploring
    - [Data Preprocessing](#data-preprocessing)
 3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
    - [Correlation Heatmap (Numeric Columns Only)](#correlation_heatmap)
-   - [Distribution of Content Types: Movies vs. TV Shows](#distribution-of-content-types-movies-vs-tv-shows)
-   - [Release Year vs. Duration Scatter Plot](#release-year-vs-duration-scatter-plot)
-   - [Count of Movie Genres](#count-of-movie-genres)
-   - [Genre vs. Movie Duration Scatter Plot](#genre-vs-movie-duration-scatter-plot)
-   - [Distribution of Movie Durations](#distribution-of-movie-durations)
+   - [Sales, Streams, Downloads, Radio Plays Over the Year](#sales_streams_downloads_radio_plays)
+   - [Top Ten Artists Based on Sales and Rating](#top_ten_artists_based_on_sales_and_rating)
+   - [Histogram of Ratings](#histogram_of_Ratings)
+   - [Relationship between Sales, Downloads, and Radio Plays over Time](#relationship_between_sales_downloads_and_radio_plays_over_time)
 4. [Conclusion](#conclusion)
 
 ## Introduction 🚀
@@ -48,44 +47,40 @@ Exploratory Data Analysis involves visualizing and interpreting the dataset to e
 
 ### Correlation Heatmap (Numeric Columns Only)
 
-![Data Distributions](music_charts/Missing%20Value%20Bar%20Graph.png)
+![Correlation Heatmap (Numeric Columns Only)](<music_charts/Correlation%20Heatmap%20(Numeric%20Columns%20Only).png>)
 
-### Distribution of Content Types: Movies vs. TV Shows
+### Relationship Between Sales, Downloads, and Radio Plays over Time
 
-![Distribution of Content Types: Movies vs. TV Shows](movie_charts/Distribution%20of%20Content%20Types%3A%20Movies%20vs.%20TV%20Shows.png)
+![Sales, Streams, Downloads, Radio Plays Over the Year](music_charts/Sales%2C%20Streams%2C%20Downloads%2C%20Radio%20Plays.png)
 
-### Release Year vs. Duration Scatter Plot
+### Top Ten Artists Based on Sales and Rating
 
-![Release Year vs. Duration Scatter Plot](movie_charts/Release%20Year%20vs.%20Duration%20Scatter%20Plot.png)
+![Top Ten Artists Based on Sales and Rating](music_charts/Top%20ten%20artists%20based%20on%20sales%20and%20rating.png)
 
-### Count of Movie Genres
+### Histogram of Ratings]
 
-![Count of Movie Genres](movie_charts/Count%20of%20Movie%20Genres.png)
+![Histogram of Ratings](music_charts/Histogram%20of%20Ratings.png)
 
-### Genre vs. Movie Duration Scatter Plot
+### Relationship between Sales, Downloads, and Radio Plays over Time
 
-![Genre vs. Movie Duration Scatter Plot](movie_charts/Genre%20vs.%20Movie%20Duration%20Scatter%20Plot.png)
-
-### Distribution of Movie Durations
-
-![Distribution of Movie Durations](movie_charts/Distribution%20of%20Movie%20Durations.png)
+![Relationship between Sales, Downloads, and Radio Plays over Time](Relationship%20between%20Sales%2C%20Downloads%2C%20and%20Radio%20Plays%20over%20Time.png)
 
 ## Conclusion 🎉
 
-In this project, I embarked on an exploratory analysis of Netflix TV series and movies, aiming to uncover insights into viewership patterns and trends over time. By examining a dataset containing various attributes such as ratings, duration, and release year, I gained valuable insights into the content landscape of Netflix.
+In this project, I embarked on an exploratory analysis of music sales, aiming to uncover insights into sales patterns and trends over time. By examining a dataset containing various attributes such as artist, title, year, sales, streams, downloads, radio plays, and ratings, I gained valuable insights into the dynamics of the music industry.
 
 Through my analysis, I discovered several key findings:
 
-- Content Distribution:
-  I observed a diverse range of content types on Netflix, including movies and TV shows. The distribution of content types provides valuable insights into the platform's content strategy and audience preferences.
+- Sales Distribution:
+  I observed a diverse range of music sales figures, highlighting popular tracks and their commercial success. This distribution provides valuable insights into the factors contributing to high sales volumes and overall market performance.
 
-- Genre Preferences:
-  Analyzing the count of movie genres revealed popular genres among Netflix viewers. Understanding genre preferences can aid content creators and platform managers in curating a compelling content library.
+- Artist Popularity:
+  Analyzing sales data by artist revealed trends in popularity and market impact. Understanding which artists consistently perform well can aid record labels and marketers in promoting similar artists and genres.
 
 - Temporal Trends:
-  By visualizing the release year vs. duration scatter plot, I identified temporal trends in content production. These trends can inform decision-making regarding content acquisition and production strategies.
+  By visualizing sales data over time, I identified trends in music consumption and production. These temporal trends can inform decision-making regarding release strategies and marketing campaigns.
 
-- Viewer Engagement:
-  Exploring viewer engagement through scatter plots helped me understand the relationship between genre, duration, and viewer interest. These insights are crucial for optimizing content recommendations and enhancing viewer engagement.
+- Engagement Metrics:
+  Exploring engagement metrics such as streams, downloads, and radio plays helped me understand the relationship between different forms of consumption and overall popularity. These insights are crucial for optimizing distribution strategies and enhancing audience reach.
 
-Overall, my exploratory analysis provides valuable insights into the content landscape of Netflix and offers a foundation for further in-depth analysis and modeling. By leveraging data-driven insights, content creators, platform managers, and stakeholders can make informed decisions to enhance the Netflix viewing experience and drive business success.
+Overall, my exploratory analysis provides valuable insights into the music sales landscape and offers a foundation for further in-depth analysis and modeling. By leveraging data-driven insights, artists, producers, and industry stakeholders can make informed decisions to enhance music promotion and drive business success.
