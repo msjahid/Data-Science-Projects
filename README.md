@@ -27,4 +27,12 @@ Explore a diverse range of projects, from exploratory analysis to predictive mod
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/ai-engagement-and-awareness-survey-analysis)
 
+## 4. Delaware Electric Vehicle Charging Station Analyze
+
+📊 This dataset provides comprehensive information on electric vehicle (EV) charging stations and associated rebates in Delaware. By analyzing attributes such as award number, location details, charging station brand, cost, and rebate amounts, this project aims to uncover trends and insights into the deployment and incentivization of EV infrastructure in the state.
+
+[View Repository](https://github.com/msjahid/Data-Science-Projects/tree/main/ev_analysis)
+
+[Click for Kaggle](https://www.kaggle.com/code/msjahid/delaware-electric-vehicle-charging-station-analyze)
+
 Feel free to explore these projects to gain insights into different data science applications.
