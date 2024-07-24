@@ -59,4 +59,12 @@ Explore a diverse range of projects, from exploratory analysis to predictive mod
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/city-perspectives-bangladeshi-urban-data)
 
+## 8. Statewise Quality of Life Index 2024 Analysis
+
+🌟 Dive into the quality of life across various states with this detailed analysis. This project evaluates the quality of life indices for different states in 2024, focusing on overall scores and specific factors such as affordability, economy, education, and safety.
+
+[View Repository](https://github.com/msjahid/Data-Science-Projects/tree/main/statewise_life)
+
+[Click for Kaggle](https://www.kaggle.com/code/msjahid/statewise-quality-of-life-index-2024-analysis)
+
 Feel free to explore these projects to gain insights into different data science applications.
