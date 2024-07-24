@@ -67,4 +67,12 @@ Explore a diverse range of projects, from exploratory analysis to predictive mod
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/statewise-quality-of-life-index-2024-analysis)
 
+## 9. Exploring Road Accident Trends in Bangladesh
+
+🚗📉 Dive into the trends and patterns of road accidents in Bangladesh with this comprehensive analysis. This project examines road accident data spanning from 1980 to 2024, offering insights into the dynamics of road safety and the factors contributing to accidents.
+
+[View Repository](https://github.com/msjahid/Data-Science-Projects/tree/main/bdroad_accident)
+
+[Click for Kaggle](https://www.kaggle.com/code/msjahid/exploring-road-accident-trends-in-bangladesh)
+
 Feel free to explore these projects to gain insights into different data science applications.
