@@ -35,4 +35,12 @@ Explore a diverse range of projects, from exploratory analysis to predictive mod
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/delaware-electric-vehicle-charging-station-analyze)
 
+## 5. Smartphone Insights: Exploratory Data Analysis
+
+📱 This project delves into the dynamic world of smartphones through exploratory data analysis (EDA). By examining a dataset with various attributes such as brand, model, price, specifications, and features, we aim to uncover trends and insights that drive the smartphone market.
+
+[View Repository](https://github.com/msjahid/Data-Science-Projects/tree/main/smartphone_eda)
+
+[Click for Kaggle](https://www.kaggle.com/code/msjahid/smartphone-insights-exploratory-data-analysis)
+
 Feel free to explore these projects to gain insights into different data science applications.
