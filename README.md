@@ -43,4 +43,12 @@ Explore a diverse range of projects, from exploratory analysis to predictive mod
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/smartphone-insights-exploratory-data-analysis)
 
+## 6. Global Deep Dive: AI, ML, & Data Science Salaries
+
+💼 Explore the landscape of AI, ML, and Data Science salaries globally with this comprehensive analysis. This project investigates salaries across various roles, experience levels, and locations to reveal trends and insights in the data science and machine learning job markets.
+
+[View Repository](https://github.com/msjahid/Data-Science-Projects/tree/main/ai_salaries)
+
+[Click for Kaggle](https://www.kaggle.com/code/msjahid/global-deep-dive-ai-ml-data-science-salaries)
+
 Feel free to explore these projects to gain insights into different data science applications.
