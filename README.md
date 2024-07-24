@@ -51,4 +51,12 @@ Explore a diverse range of projects, from exploratory analysis to predictive mod
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/global-deep-dive-ai-ml-data-science-salaries)
 
+## 7. City Perspectives: Bangladeshi Urban Data
+
+🌆 This project offers an in-depth look at urban data for cities across Bangladesh. By analyzing various attributes such as population trends, geographical area, and administrative divisions, the project aims to provide valuable insights into urban development and demographic changes over time.
+
+[View Repository](https://github.com/msjahid/Data-Science-Projects/tree/main/bdpopulation_analysis)
+
+[Click for Kaggle](https://www.kaggle.com/code/msjahid/city-perspectives-bangladeshi-urban-data)
+
 Feel free to explore these projects to gain insights into different data science applications.
