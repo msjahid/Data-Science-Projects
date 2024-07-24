@@ -64,9 +64,9 @@ The analysis will focus on:
 
 ## How to Use This Repository
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/College-Student-AI-Use-in-School.git`
-2. **Navigate to the Project Directory**: `cd College-Student-AI-Use-in-School`
-3. **Explore the Data**: The dataset is available in the `data` folder. Load and explore it using your preferred data analysis tools.
+1. **Clone the Repository**: `git clone https://github.com/msjahid/ai_using_school.git`
+2. **Navigate to the Project Directory**: `cd ai_using_school`
+3. **Explore the Data**: The dataset is available in the `ai_data` folder. Load and explore it using your preferred data analysis tools.
 4. **Run the Analysis**: Use the provided Jupyter notebooks to perform analyses and visualize the findings.
 
 ## Contributing
