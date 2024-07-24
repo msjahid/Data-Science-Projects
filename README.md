@@ -19,4 +19,12 @@ Explore a diverse range of projects, from exploratory analysis to predictive mod
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/exploratory-analysis-of-music-sales-and-streaming)
 
+## 3. AI Engagement and Awareness Survey Analysis
+
+🎓 Dive into the fascinating world of Artificial Intelligence (AI) in education with this exploratory analysis project. By examining a diverse dataset that captures students' AI knowledge, usage frequency, career interests, and awareness of ChatGPT, this project uncovers hidden trends and insights into how AI is integrated into the academic lives of college students.
+
+[View Repository](https://github.com/msjahid/Data-Science-Projects/tree/main/ai_using_school)
+
+[Click for Kaggle](https://www.kaggle.com/code/msjahid/ai-engagement-and-awareness-survey-analysis)
+
 Feel free to explore these projects to gain insights into different data science applications.
