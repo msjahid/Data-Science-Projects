@@ -117,7 +117,7 @@ The analysis will focus on:
 
 ## How to Use This Repository
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/smartphone_eda.git`
+1. **Clone the Repository**: `git clone https://github.com/msjahid/smartphone_eda.git`
 2. **Navigate to the Project Directory**: `cd smartphone_eda`
 3. **Explore the Data**: The dataset is available in the `smartphone_data` folder. Load and explore it using your preferred data analysis tools.
 4. **Run the Analysis**: Use the provided Jupyter notebooks to perform analyses and visualize the findings.
