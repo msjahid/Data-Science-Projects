@@ -75,4 +75,12 @@ Explore a diverse range of projects, from exploratory analysis to predictive mod
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/exploring-road-accident-trends-in-bangladesh)
 
+## 10. Walmart Sales Exploration
+
+🛒 Explore the dynamics of Walmart sales with this comprehensive analysis. This project investigates weekly sales across different stores, examining various factors such as holidays, temperature, fuel prices, CPI, and unemployment rates to reveal trends and insights in Walmart's sales performance.
+
+[View Repository](https://github.com/msjahid/Data-Science-Projects/tree/main/walmart_sales)
+
+[Click for Kaggle](https://www.kaggle.com/code/msjahid/walmart-sales-exploration)
+
 Feel free to explore these projects to gain insights into different data science applications.
